@@ -1,5 +1,4 @@
 calc_result = {}
-name_lunch = {}
 
 # open 'data_sample/name_gender.csv' and calculate
 with open('data_sample/name_gender.csv') as f:
