@@ -1,3 +1,4 @@
 expy/expy.wpr
 expy/test.py
 qpy/qpy.wpr
+*.wpr
